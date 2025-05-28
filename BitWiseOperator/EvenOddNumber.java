@@ -6,7 +6,7 @@ public class EvenOddNumber {
         System.out.print("Enter the number: ");
         int n = scanner.nextInt();
 
-        System.out.print(n);
+        System.out.println(n);
 
     }
 }
